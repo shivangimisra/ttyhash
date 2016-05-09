@@ -1,0 +1,2 @@
+# ttyhash
+TTY hash algorithm
